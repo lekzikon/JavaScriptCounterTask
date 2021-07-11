@@ -61,3 +61,22 @@ h2 {
     font-weight: bold;
 
 }
+
+
+
+@media screen and (max-width: 800px) {
+    .firstDiv {
+        width: 100%;
+
+    }
+
+    .secondDiv {
+        height: 95%;
+        margin-top: 15px;
+    }
+
+    #number {
+        margin-top: 5%;
+    }
+    
+}
